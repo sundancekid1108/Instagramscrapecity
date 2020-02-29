@@ -1,4 +1,6 @@
 # Instagramscrapecity
  Instagramscrapecity - React, NodeJs
 
-#node-cron을 이용한 Instagram 크롤링
+1. Express Server 생성
+2. Data를 db에 저장
+3. cron(크롤링)설정

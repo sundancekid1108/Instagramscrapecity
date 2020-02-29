@@ -1,0 +1,19 @@
+{
+    "name": "InstagramScrapecityFrontend",
+    "version": "1.0.0",
+    "description": "InstagramScrapecityFrontend",
+    "main": "index.js",
+    "license": "MIT",
+    "devDependencies": {},
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next"
+    },
+    "dependencies": {
+        "date-fns": "^2.10.0",
+        "next": "^9.2.2",
+        "react": "^16.13.0",
+        "react-dom": "^16.13.0"
+    }
+}

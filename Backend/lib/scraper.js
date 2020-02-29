@@ -18,7 +18,7 @@ export const getInstagramFollowers = (html) => {
 
 export const getInstagramCount = async () => {
     const html = await getHTML('https://www.instagram.com/creamcandy123');
-    console.log("html", html);
+    //console.log("html", html);
     const instagramCount = await getInstagramFollowers(html);
     return instagramCount;
 }
